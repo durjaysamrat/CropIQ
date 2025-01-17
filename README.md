@@ -1,6 +1,5 @@
-Here’s a **creative and engaging README** for your rice plant disease detection project:
-
----
+### 🌟 Mobile App Interface  
+![Untitled_Export_V1](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
 
 # 🌾 App-Based Solution for Rice Plant Disease Detection  
 
@@ -92,11 +91,6 @@ Achieved **95% accuracy** on the test dataset, ensuring reliable disease detecti
 - Output: "Disease Detected: Brown Spot"  
 
 ---
-
-## 📸 Screenshots  
-
-### 🌟 Mobile App Interface  
-![Untitled_Export_V1](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
 
 ### 🧠 Model Prediction Output  
 ![Untitled_Export_V1](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
