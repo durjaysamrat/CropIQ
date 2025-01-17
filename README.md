@@ -96,7 +96,7 @@ Achieved **95% accuracy** on the test dataset, ensuring reliable disease detecti
 ## 📸 Screenshots  
 
 ### 🌟 Mobile App Interface  
-![Mobile App Screenshot](https://via.placeholder.com/800x400?text=Mobile+App+Interface)  
+![Untitled_Export_V1](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
 
 ### 🧠 Model Prediction Output  
 ![Untitled_Export_V1](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
