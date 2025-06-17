@@ -1,116 +1,110 @@
-### 🌟 Mobile App Interface  
-![Untitled_Export_V1](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
+🌾 CropIQ – App-Based Rice Plant Disease Detection
 
-# 🌾 App-Based Solution for Rice Plant Disease Detection  
 
-Welcome to the repository for **App-Based Solution for Rice Plant Disease Detection**! 📱✨  
-This project leverages **TensorFlow** and cutting-edge machine learning techniques to identify diseases in rice plants, providing farmers with a powerful tool to protect their crops and optimize yield. 🚜  
+Welcome to CropIQ, a smart and scalable mobile solution that leverages deep learning to detect rice plant diseases in real time. Designed to assist farmers and agronomists, this app transforms a smartphone into a powerful diagnostic tool. 📱🧠
 
----
+🔍 Problem Statement
+Rice crop diseases like Leaf Smut, Brown Spot, and Bacterial Leaf Blight can significantly reduce yield and farmer income.
+Manual detection is labor-intensive, error-prone, and inaccessible to small-scale farmers.
 
-## 🧠 Problem Statement  
+CropIQ solves this by providing:
 
-Diseases in rice plants can severely impact crop yield and quality, leading to economic losses for farmers.  
-Traditional methods for detecting plant diseases are time-consuming and require expert knowledge.  
-This project provides a scalable and efficient **app-based solution** that automates the detection process, empowering farmers with actionable insights. 🌱  
+Instant disease detection
 
----
+Visual diagnosis via smartphone
 
-## ✨ Key Features  
+Actionable recommendations to mitigate risk
 
-- **Deep Learning-Powered Detection**  
-   Utilizes TensorFlow models to classify rice plant diseases with high accuracy.  
+🚀 Key Features
+✅ AI-Powered Detection
+Classifies diseases using TensorFlow-trained deep learning models with ~95% accuracy.
 
-- **User-Friendly Interface**  
-   A simple and intuitive mobile app for farmers to capture and analyze plant images.  
+✅ Simple & Intuitive UI
+Easy-to-use mobile interface for farmers and field workers.
 
-- **Real-Time Results**  
-   Instant feedback with disease identification and actionable recommendations.  
+✅ Real-Time Feedback
+Upload or capture a leaf image and get results within seconds.
 
-- **Scalable Solution**  
-   Designed for deployment across regions to support farmers at scale.  
+✅ Edge Deployment
+Lightweight TensorFlow Lite models ensure offline inference in rural areas.
 
----
+🧠 Tech Stack
+Layer	Tools & Frameworks
+AI Model	TensorFlow, Keras, OpenCV
+Backend API	Python, Flask
+Deployment	TensorFlow Lite
+Mobile App	Android Studio, Java/Kotlin
+UI Components	XML, Jetpack, Glide
 
-## 💻 Tech Stack  
+⚙️ Getting Started
+🧾 Prerequisites
+Python ≥ 3.7
 
-- **Frameworks & Libraries:** TensorFlow, Keras, OpenCV  
-- **Programming Language:** Python  
-- **Deployment Tools:** Flask, TensorFlow Lite  
-- **Mobile App Integration:** Android Studio  
+TensorFlow 2.x
 
----
+Flask
 
-## 🚀 Getting Started  
+Android Studio
 
-### Prerequisites  
+🛠️ Setup Instructions
+Clone the Repository
 
-1. **Python** (3.7 or later)  
-2. **TensorFlow** (2.x)  
-3. **Flask** for the API backend  
-4. **Android Studio** for app development  
+bash
+Copy
+Edit
+git clone https://github.com/durjaysamrat/App-Based-Solution-for-Rice-Plant-Disease-Detection-using-tensorflow.git  
+cd App-Based-Solution-for-Rice-Plant-Disease-Detection-using-tensorflow  
+Install Backend Dependencies
 
-### Installation  
+bash
+Copy
+Edit
+pip install -r requirements.txt  
+Start the Flask Server
 
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/durjaysamrat/App-Based-Solution-for-Rice-Plant-Disease-Detection-using-tensorflow.git  
-   ```  
+bash
+Copy
+Edit
+python app.py  
+Launch Mobile App
 
-2. Navigate to the project folder:  
-   ```bash  
-   cd App-Based-Solution-for-Rice-Plant-Disease-Detection-using-tensorflow  
-   ```  
+Open /android-app in Android Studio
 
-3. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
+Run on emulator/device
 
-4. Run the Flask server:  
-   ```bash  
-   python app.py  
-   ```  
+Connect to Flask backend via IP or localhost tunnel
 
-5. Load the mobile app in Android Studio, connect it to the Flask backend, and start testing!  
+📈 Results & Insights
+🧪 Model Accuracy
+Achieved ~95% test accuracy on rice disease dataset.
 
----
+🦠 Detected Classes
+Bacterial Leaf Blight
 
-## 📊 Results  
+Brown Spot
 
-### Model Accuracy  
-Achieved **95% accuracy** on the test dataset, ensuring reliable disease detection.  
+Leaf Smut
 
-### Disease Classes Detected  
-1. Bacterial Leaf Blight  
-2. Brown Spot  
-3. Leaf Smut  
+🖼️ Sample Prediction Output
+Input: Rice plant leaf image
+Output: Disease Detected: Brown Spot
 
-### Example Predictions  
-- Input Image: 🌾 Rice plant leaf  
-- Output: "Disease Detected: Brown Spot"  
 
----
 
-### 🧠 Model Prediction Output  
-![Untitled_Export_V1](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
+🤝 Contributing
+We welcome contributors and collaborators!
 
----
+💡 Got feature ideas? Raise an issue
 
-## 🤝 Contributions  
+🛠 Found a bug? Submit a pull request
 
-Contributions, issues, and suggestions are welcome! 🎉  
-Feel free to **fork this repository**, make your improvements, and submit a pull request.  
+📚 Want to improve docs? We love that too!
 
----
+📬 Connect with Me
 
-## 📫 Contact  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjaysamrat) [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durjaysamratn36@gmail.com)  
 
----
 
-⭐ **If you find this project helpful, give it a star!**  
-Let’s build solutions to empower the agriculture industry. 🚜🌾  
-
----
+⭐ Support This Project
+If CropIQ helped or inspired you, please give the repo a ⭐ and share it with others.
+Together, let’s make smart agriculture accessible to every farmer. 🌱🚜
