@@ -3,7 +3,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![Android](https://img.shields.io/badge/Android-12+-brightgreen?logo=android)](https://developer.android.com)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Last Commit](https://img.shields.io/github/last-commit/durjaysamrat/CropIQ)](https://github.com/durjaysamrat/CropIQ/commits/main)
 
 ![CropIQ Banner](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
