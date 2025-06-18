@@ -144,9 +144,9 @@ We welcome contributions! Here's how to help:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Durjay_Samrat-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/durjaysamrat)
 [![GitHub](https://img.shields.io/badge/GitHub-durjaysamrat-181717?style=flat&logo=github)](https://github.com/durjaysamrat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=flat)](https://durjaysamrat.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=flat)](https://durjaysamrat.vercel.app)
 [![Email](https://img.shields.io/badge/Email-durjaysamratn36@gmail.com-D14836?style=flat&logo=gmail)](mailto:durjaysamratn36@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Tech_Demos-FF0000?style=flat&logo=youtube)](https://youtube.com/@durjaysamrat)
+[![YouTube](https://img.shields.io/badge/YouTube-Tech_Demos-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@durjaysamrat9166)
 
 ## 🌟 Support This Project
 If CropIQ inspires you or you'd like to see it grow, please consider:
