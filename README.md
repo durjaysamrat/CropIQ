@@ -10,7 +10,7 @@
 
 CropIQ is an end-to-end AI solution that detects rice plant diseases in real-time using deep learning. This production-ready mobile application helps farmers identify diseases like Bacterial Leaf Blight, Brown Spot, and Leaf Smut with **95% accuracy**, empowering them to protect crops and increase yields.
 
-**Live Demo**: [YouTube Walkthrough](https://youtu.be/h2RQVlNBfqU) • **Download APK**: [Latest Release](https://github.com/durjaysamrat/CropIQ/releases)
+**Download APK**: [Latest Release](https://github.com/durjaysamrat/CropIQ/releases)
 
 ## 🚀 Why Recruiters Notice This Project
 
@@ -149,12 +149,6 @@ We welcome contributions! Here's how to help:
 [![Email](https://img.shields.io/badge/Email-durjaysamratn36@gmail.com-D14836?style=flat&logo=gmail)](mailto:durjaysamratn36@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Tech_Demos-FF0000?style=flat&logo=youtube)](https://youtube.com/@durjaysamrat)
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-> "Empowering farmers with AI is not just about technology - it's about securing our global food future."  
-> - Durjay Samrat, Creator of CropIQ
-
 ## 🌟 Support This Project
 If CropIQ inspires you or you'd like to see it grow, please consider:
 
@@ -164,6 +158,3 @@ If CropIQ inspires you or you'd like to see it grow, please consider:
 4. Connecting with me for collaboration opportunities
 
 ---
-
-**© 2025 Durjay Samrat | AI Solutions for Global Challenges**  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=durjaysamrat.CropIQ)](https://github.com/durjaysamrat/CropIQ)
