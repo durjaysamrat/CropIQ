@@ -3,7 +3,6 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![Android](https://img.shields.io/badge/Android-12+-brightgreen?logo=android)](https://developer.android.com)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://python.org)
-[![Last Commit](https://img.shields.io/github/last-commit/durjaysamrat/CropIQ)](https://github.com/durjaysamrat/CropIQ/commits/main)
 
 ![CropIQ Banner](https://github.com/user-attachments/assets/09131fb1-31d8-42fb-86ca-0f629213e45c)
 
@@ -146,7 +145,6 @@ We welcome contributions! Here's how to help:
 [![GitHub](https://img.shields.io/badge/GitHub-durjaysamrat-181717?style=flat&logo=github)](https://github.com/durjaysamrat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=flat)](https://durjaysamrat.vercel.app)
 [![Email](https://img.shields.io/badge/Email-durjaysamratn36@gmail.com-D14836?style=flat&logo=gmail)](mailto:durjaysamratn36@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Tech_Demos-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@durjaysamrat9166)
 
 ## 🌟 Support This Project
 If CropIQ inspires you or you'd like to see it grow, please consider:
